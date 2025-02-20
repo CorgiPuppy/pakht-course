@@ -1,1 +1,1 @@
-# PAKHT_labs
+Exam questions for PAKHT
